@@ -38,6 +38,7 @@ public abstract class WordLibrary {
     /**
      * Constructor for subclasses.
      */
+    int a=10;
     protected WordLibrary() {
     }
     
